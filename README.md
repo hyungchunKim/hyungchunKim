@@ -1,16 +1,16 @@
-### Hi there 👋
+## 안녕하세요! 프론트엔드 개발자 김형준 입니다! 😎
 
-<!--
-**hyungchunKim/hyungchunKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 나의 프로필
 
-Here are some ideas to get you started:
+#### BLOG : https://velog.io/@ktsomu
+#### GitHub : https://github.com/hyungchunKim
+#### E-Mail : ktsomu0876@gmail.com
+------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 공부중인 언어
+
+![Static Badge](https://img.shields.io/badge/language-Javascript-orange)
+![Static Badge](https://img.shields.io/badge/language-Typescript-Blue) 
+
+
+
